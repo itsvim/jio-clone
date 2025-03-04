@@ -82,10 +82,6 @@ body {
     padding-left: 48px;
 }
 
-.search input::placeholder {
-    color: var(--color-white);
-}
-
 .search i {
     position: absolute;
     left: 10px;
